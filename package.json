@@ -1,0 +1,11 @@
+{
+  "name": "flycoin-api",
+  "version": "1.0.2",
+  "description": "FlyCoin API, хули нет",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://vk.com/ymenaidtopa.json",
+  "license": "ISC"
+}
